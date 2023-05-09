@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/worldfoodprogramme/SYR-SMD/_apis/build/status%2Fhilal-almansour.js-e2e-express-server?branchName=main)](https://dev.azure.com/worldfoodprogramme/SYR-SMD/_build/latest?definitionId=1645&branchName=main)
+
 ---
 page_type: sample
 languages:
